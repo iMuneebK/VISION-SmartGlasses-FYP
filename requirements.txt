@@ -1,0 +1,7 @@
+ultralytics
+scikit-fuzzy
+geopy
+pyttsx3
+gTTS
+numpy
+opencv-python\n
