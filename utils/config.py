@@ -1,0 +1,3 @@
+CAMERA_SOURCE = 0
+MODEL_WEIGHTS = "yolov8n.pt"
+TTS_LANGUAGE = "en"\n
